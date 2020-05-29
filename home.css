@@ -1,0 +1,101 @@
+
+.produtos{
+    text-align: center;
+}
+
+.mais{
+    text-align: center;
+}
+
+.espaco{
+    
+}
+.carousel-item img{
+    width: 350px;
+    height: 250px;
+
+}
+.texto{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cordefundo{
+    background-color:#CDC9C9;
+}
+.titulo{
+    text-align: center;
+}
+.titulo h1{
+    color: black;
+    font-size: 3rem;
+    display: inline-block;
+    padding: 100px 0 0 0;
+    text-align: center;
+}
+.titulo a{
+    padding: 0 10px
+}
+.menu1{
+    background-color:#8B008B;
+    min-height: 100px;    
+}
+.menu1 img{
+    width: 250%;
+    max-width: 150px;
+    float: left;
+}
+.sobre{
+    display: flex;
+    margin: 2.0%;
+    padding: 0 10%;
+    justify-content: space-between;
+    text-align: left;
+    font-size: 1.3rem;
+    color:black;
+}
+.sobre img {
+    width: 200px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 20px;
+}
+.sobre div{
+    padding: 1%;
+}
+.meio {
+    width: 100%;
+    text-align: center;
+    background-color:#CD96CD;
+}
+
+
+.footer {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    font-size: 20px;
+    width:100%;
+    background-color:#BEBEBE;
+    text-align: center;
+}
+.footerp{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#363636;
+}
+.linhatexto {
+  text-align: center;
+  color:#696969;
+  font-size:x-large;
+}
+
+
+.fonttexto{
+    font-family: 'Lucida Sans';
+
+}
+.corpreco{
+    color: purple;
+    font-size:smaller;
+}
+
